@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\reviewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\reviewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\purchaseorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\purchaseorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\lichsutieudiemtichdiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\lichsutieudiemtichdiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\controllers\\banhangtaiquaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\banhangtaiquaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\quanlyhoadon\\exporthd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\quanlyhoadon\\exporthd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\views\\home\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\doantotnghiep\\duantotnghiep\\appapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|d:\\doantotnghiep\\duantotnghiep\\appdata\\models\\assignmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|solutionrelative:appdata\\models\\assignmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\doantotnghiep\\duantotnghiep\\appview\\models\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\models\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|d:\\doantotnghiep\\duantotnghiep\\appdata\\configurations\\nhanvienconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|solutionrelative:appdata\\configurations\\nhanvienconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031926_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031836_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031737_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031013_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|d:\\doantotnghiep\\duantotnghiep\\appdata\\viewmodels\\hoadonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|solutionrelative:appdata\\viewmodels\\hoadonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\doantotnghiep\\duantotnghiep\\appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\doantotnghiep\\duantotnghiep\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|d:\\doantotnghiep\\duantotnghiep\\appdata\\appdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9B55134-E679-48FD-8FDF-8F1B2C6FF586}|AppData\\AppData.csproj|solutionrelative:appdata\\appdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\doantotnghiep\\duantotnghiep\\appapi\\appapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32134397:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewProducts.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\ReviewProducts.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\ReviewProducts.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\ReviewProducts.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\ReviewProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:26:16.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseOrder.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\PurchaseOrder.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\PurchaseOrder.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\PurchaseOrder.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\PurchaseOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:20:12.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:20:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:19:49.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LichSuTieuDiemTichDiem.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\LichSuTieuDiemTichDiem.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\LichSuTieuDiemTichDiem.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\LichSuTieuDiemTichDiem.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\LichSuTieuDiemTichDiem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:14:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:19:41.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAALkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:19:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:13:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:09:55.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:20:10.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:20:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogDetails.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\BlogDetails.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\BlogDetails.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\BlogDetails.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\BlogDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:13:32.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:10:08.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "AppView\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "AppView\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T04:42:34.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAJkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T04:42:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExportHD.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\ExportHD.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\QuanLyHoaDon\\ExportHD.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\ExportHD.cshtml",
+              "RelativeToolTip": "AppView\\Views\\QuanLyHoaDon\\ExportHD.cshtml",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T04:20:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckOutSuccess.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\CheckOutSuccess.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\CheckOutSuccess.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Views\\Home\\CheckOutSuccess.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\CheckOutSuccess.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T04:17:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:11:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BanHangTaiQuayController.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Controllers\\BanHangTaiQuayController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\BanHangTaiQuayController.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Controllers\\BanHangTaiQuayController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\BanHangTaiQuayController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:09:08.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAASwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:53:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\appsettings.json",
+              "RelativeDocumentMoniker": "AppView\\appsettings.json",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\appsettings.json",
+              "RelativeToolTip": "AppView\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T03:53:34.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Models\\VNPay\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\VNPay\\VnPayLibrary.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppView\\Models\\VNPay\\VnPayLibrary.cs",
+              "RelativeToolTip": "AppView\\Models\\VNPay\\VnPayLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:50:42.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhanVienConfiguration.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\Configurations\\NhanVienConfiguration.cs",
+              "RelativeDocumentMoniker": "AppData\\Configurations\\NhanVienConfiguration.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\Configurations\\NhanVienConfiguration.cs",
+              "RelativeToolTip": "AppData\\Configurations\\NhanVienConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:27:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentDBContext.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\Models\\AssignmentDBContext.cs",
+              "RelativeDocumentMoniker": "AppData\\Models\\AssignmentDBContext.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\Models\\AssignmentDBContext.cs",
+              "RelativeToolTip": "AppData\\Models\\AssignmentDBContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA/wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:24:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250511031926_init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031926_init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031926_init.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:19:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250511031013_init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031013_init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031013_init.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:10:13.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppAPI.csproj",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\AppAPI.csproj",
+              "RelativeDocumentMoniker": "AppAPI\\AppAPI.csproj",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\AppAPI.csproj",
+              "RelativeToolTip": "AppAPI\\AppAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T08:08:29.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppData.csproj",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\AppData.csproj",
+              "RelativeDocumentMoniker": "AppData\\AppData.csproj",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\AppData.csproj",
+              "RelativeToolTip": "AppData\\AppData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T07:38:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppAPI",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\AppAPI.csproj",
+              "RelativeDocumentMoniker": "AppAPI\\AppAPI.csproj",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\AppAPI.csproj",
+              "RelativeToolTip": "AppAPI\\AppAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T07:29:57.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250511031737_init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031737_init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031737_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:17:37.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250511031836_init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031836_init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DuAnTotNghiep-lf29oa\\DuAnTotNghiep\\AppData\\Migrations\\20250511031836_init.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:18:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T08:30:35.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HoaDonViewModel.cs",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\ViewModels\\HoaDonViewModel.cs",
+              "RelativeDocumentMoniker": "AppData\\ViewModels\\HoaDonViewModel.cs",
+              "ToolTip": "D:\\DoAnTotNghiep\\DuAnTotNghiep\\AppData\\ViewModels\\HoaDonViewModel.cs",
+              "RelativeToolTip": "AppData\\ViewModels\\HoaDonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:09:51.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
